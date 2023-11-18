@@ -55,3 +55,7 @@ Create a financial model for a company (different from Task 2) of your choice th
 Your assumptions for revenue growth, gross margin and operating margin should change for each scenario.
 The forecasting model should be dynamic for the selection of the case (Weak, Base, Strong). However, the forecasting model can be static for the chosen company sticker symbol.
 Deliverable: Spreadsheet with tab for Forecasting Model
+
+[PROJECT NYSE (2).zip](https://github.com/JoeGraft/Data-Business-Analytics-Projects/files/13401693/PROJECT.NYSE.2.zip)
+
+
